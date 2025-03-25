@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const voteInput = document.getElementById("votes");
     const resetButton = document.getElementById("reset-btn");
 
-    let totalVotes = 100;
+    let totalVotes = 0;
     let currentCharacterId = null;
 
     
