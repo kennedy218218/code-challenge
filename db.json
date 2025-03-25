@@ -1,32 +1,31 @@
-
 {
   "characters": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Mr. Cute",
       "image": "https://img.freepik.com/free-vector/cute-detective-bear-cartoon-character_138676-2911.jpg?semt=ais_keywords_boost",
       "votes": 0
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Mx. Monkey",
       "image": "https://img.freepik.com/free-vector/monkey-with-banana-their-head_1308-140456.jpg?semt=ais_hybrid",
-      "votes": 100
+      "votes": 0
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Ms. Zebra",
       "image": "https://img.freepik.com/free-vector/cute-zebra-with-blank-sign_1308-179223.jpg?semt=ais_hybrid",
       "votes": 0
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Dr. Lion",
       "image": "https://img.freepik.com/free-vector/cute-lion-cartoon-character_1308-134230.jpg?semt=ais_hybrid",
       "votes": 0
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Mme. Panda",
       "image": "https://img.freepik.com/free-photo/fun-3d-panda-backpacker-cartoon-character_183364-81202.jpg?semt=ais_hybrid",
       "votes": 0
