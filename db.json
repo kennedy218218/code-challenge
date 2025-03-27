@@ -1,33 +1,33 @@
 {
   "characters": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Mr. Cute",
-      "image": "https://media2.giphy.com/media/ufm7PH1ySR8f6/giphy.webp?cid=ecf05e47tqjvc1mvmkdb8553is6sbrg17tfzcbj7nm1sdfxx&ep=v1_gifs_related&rid=giphy.webp&ct=g",
+      "image": "https://media2.giphy.com/media/b1WwSwsCZA7rFomi2Z/giphy.webp?cid=ecf05e475c17osw8eoxxu3690uwhishkvuys2f16d3bjrh65&ep=v1_gifs_search&rid=giphy.webp&ct=g",
       "votes": 0
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Mx. Monkey",
-      "image": "https://media2.giphy.com/media/Rlwz4m0aHgXH13jyrE/giphy.webp?cid=790b7611qqbujq5nucyxc7rwnlihqb9ewc22vair6l2kc01x&ep=v1_gifs_search&rid=giphy.webp&ct=g",
+      "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm02YWU0bnNxankzcGNrMTU2YjVndXplaTA0eDRqNDVlMXJ6eTFwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lVsYDBC0UVQJCE/giphy.gif",
       "votes": 0
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Ms. Zebra",
-      "image": "https://media2.giphy.com/media/8LsOY7dirIH28/200.webp?cid=790b7611zt6uqfutcn6i77a2u6my7fe15lmd1j0yie2wlnno&ep=v1_gifs_search&rid=200.webp&ct=g",
+      "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQyaHFlMXVibXo0OTEwZmI0MTQ0Nnc5OWF1emVxOW1jZGU1OTF3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jRr2ofoTp2HErToR86/giphy.gif",
       "votes": 0
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Dr. Lion",
-      "image": "https://media2.giphy.com/media/pWurLyQIgWLqmqGS46/200.webp?cid=790b76112zdbd0h757sbzjo9e0d5w8gr9n9b893441gnqo7v&ep=v1_gifs_search&rid=200.webp&ct=g",
-      "votes": 0
+      "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDM1bjJsZ2ZkOHU3dnNnbjMwemRjc2cxb29obnk4MnRreHJ0ZmFwdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OqFpgF7bet1sRoCmpb/200.webp",
+      "votes": 500
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Mme. Panda",
-      "image": "https://media0.giphy.com/media/nntN4XMNwTzZ6/200.webp?cid=790b7611rtdki1bghcupjze2q6vgizjy8gnd6ured1hptqqt&ep=v1_gifs_search&rid=200.webp&ct=g",
+      "image": "https://media4.giphy.com/media/tcAykk8j17GIU/200.webp?cid=790b7611vw5207cmjytpm6zukclpd93lavoka2tnf62qy0j9&ep=v1_gifs_search&rid=200.webp&ct=g",
       "votes": 0
     }
   ]
