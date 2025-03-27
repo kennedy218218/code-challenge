@@ -10,6 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const resetButton = document.getElementById("reset-btn");
 
   let totalVotes = 0;
+  
 
   fetch(baseUrl)
     .then((response) => response.json())
@@ -56,3 +57,4 @@ document.addEventListener("DOMContentLoaded", () => {
     voteCount.textContent = totalVotes;
   });
 });
+
